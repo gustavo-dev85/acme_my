@@ -1,4 +1,4 @@
-vamos ultilizar next.js para construir uma aplicação web seguindo um tutorial oficial com pequenos ajustes 
+vamos ultilizar next.js para construir uma aplicação web seguindo um tutorial oficial com pequenos ajustes
 
 o projeto original está disponivel no site do next.js e la vai ter o passo a passo e a documentação da ferramenta.
 
